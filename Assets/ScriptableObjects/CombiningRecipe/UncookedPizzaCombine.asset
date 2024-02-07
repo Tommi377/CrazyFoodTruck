@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a008e080bd952e04e899ca1226bfc079, type: 3}
+  m_Name: UncookedPizzaCombine
+  m_EditorClassIdentifier: 
+  Inputs:
+  - {fileID: 11400000, guid: ec79abd9614c3974888d52149978e2ef, type: 2}
+  - {fileID: 11400000, guid: 9de103b699174ef4ca6be492705fc205, type: 2}
+  - {fileID: 11400000, guid: 5c0d3189657d80247960b1ce964b3c02, type: 2}
+  Output: {fileID: 11400000, guid: 8b615f872a6b7e943bd11ff120d8870d, type: 2}

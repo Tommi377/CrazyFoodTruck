@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a008e080bd952e04e899ca1226bfc079, type: 3}
+  m_Name: HotDogCombine
+  m_EditorClassIdentifier: 
+  Inputs:
+  - {fileID: 11400000, guid: 0d5ec5edb1e9a5e43b2cc128618d434c, type: 2}
+  - {fileID: 11400000, guid: 8face8fa39af33849a8079ff9636f371, type: 2}
+  Output: {fileID: 11400000, guid: 8ea636cf2b2c4814c97f79165c07486c, type: 2}
